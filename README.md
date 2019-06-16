@@ -1,6 +1,6 @@
 # hello-world
 
-Nice to meet you
+Day 1
 
 I'm a podcast fanatic which has lead to an impressive amount of useless knowledge
 Did you know that Wombat poop is cube shaped?
